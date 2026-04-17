@@ -2,8 +2,7 @@
 
 TaskFlow is a high-performance, fully responsive landing page designed for modern SaaS productivity tools. Built with a focus on "Mobile-First" approach.
 
-![TaskFlow Preview](https://task-flow-steel-five.vercel.app/)
-
+[TaskFlow Preview](https://task-flow-steel-five.vercel.app/)
 ## Key Features
 
 - **Mobile-First Architecture:** Designed for mobile performance and scaled up for desktop users.
