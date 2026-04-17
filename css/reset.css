@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+body {
+  background: var(--main-bg-color);
+  font-family: var(--font-main);
+}
+ul {
+  list-style: none;
+}
